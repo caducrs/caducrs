@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/caducrs/caducrs/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/caducrs/output/snake.svg" alt="Snake animation" />
 
 ###
