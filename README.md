@@ -1,4 +1,4 @@
-<h2 align="center">Salve 🧟‍♂️!  Meu nome é Carlos Eduardo mas pode chamar de Cadu.</h2>
+<h2 align="center">Salve 🧟‍♂️!  Meu nome é Carlos Eduardo mas pode me chamar de Cadu.</h2>
 
 ###
 
