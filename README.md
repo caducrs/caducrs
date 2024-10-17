@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"/>
 </div>
 
 ###
