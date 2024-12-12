@@ -7,7 +7,7 @@ Aqui é o Cadu (Carlos Eduardo)
 
 ![caducrs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caducrs&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8633ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caducrs/)[![Instagram](https://img.shields.io/badge/-Instagram-%238633ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caduwzy/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8633ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caducrs/) [![Instagram](https://img.shields.io/badge/-Instagram-%238633ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caduwzy/)  
 
 
 
