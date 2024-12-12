@@ -11,7 +11,7 @@ Aqui é o Cadu (Carlos Eduardo)
  [![GitHub](https://img.shields.io/badge/GitHub-8633ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caducrs) [![Instagram](https://img.shields.io/badge/-Instagram-%238633ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caduwzy/) 
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,typescript,java,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,typescript,java,angular,laravel,react,springboot,maven,docker,linux)](https://skillicons.dev)
 
 
 ## Objetivos
