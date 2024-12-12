@@ -13,7 +13,7 @@ Aqui é o Cadu (Carlos Eduardo)
 
 ## Technologies  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,python,java,angular,laravel,react,docker,kubernets,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,python,java,angular,laravel,react,docker,oracle,linux)](https://skillicons.dev)
 
 ## Objetivos  
 
