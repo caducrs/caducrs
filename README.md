@@ -1,5 +1,5 @@
 # Opa! 👋
-Aqui é o Cadu (Carlos Eduardo) sou Systems Developer & DevOps Engineer 
+Aqui é o Cadu (Carlos Eduardo) Systems Developer & DevOps Engineer 
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%238633ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caduwzy/)
