@@ -17,7 +17,7 @@ Aqui é o Cadu (Carlos Eduardo)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%238633ff?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-%238633ff?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)&nbsp;
 
 
