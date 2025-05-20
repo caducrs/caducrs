@@ -1,7 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Carlos Eduardo Corrêa Silva</h1>
 <p align="center">
-  💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Backend e DevOps | 🌐 <p align="center">
-  <a href="https://www.linkedin.com/in/caducrs/">
+  💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Backend e DevOps | 🌐 <a href="https://www.linkedin.com/in/caducrs/">
     <img src="https://img.shields.io/badge/LinkedIn-8633ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
