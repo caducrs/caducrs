@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
-## 📊 Estatísticas do GitHub
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caducrs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -30,5 +30,4 @@
 
 ---
 
-## 🌐 Contato & Redes
   
