@@ -1,6 +1,6 @@
 <h1 align="center">👋 Carlos aqui!</h1>
 <p align="center">
-  💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Backend e DevOps |
+  💻 Desenvolvedor Full Stack | 🚀 DevOps |
 
 </p>
 
