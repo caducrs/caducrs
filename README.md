@@ -1,16 +1,3 @@
-<br clear="both">
-
-<h1 align="center">Ich bin der Übermensch</h1>
-
-###
-
-<h3 align="center">"DevOps isn't a goal, it's a way of life."</h3>
-
-###
-
-<div align="center">
-  <img height="270" src="https://i.pinimg.com/736x/64/a7/1a/64a71a0f0b298127aa1366d77b2929f9.jpg" />
-</div>
 
 ###
 
