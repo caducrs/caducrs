@@ -1,33 +1,61 @@
-<h1 align="center">👋 Carlos aqui!</h1>
-<p align="center">
-  💻 Desenvolvedor Full Stack | 🚀 DevOps |
+<br clear="both">
 
-</p>
+<h1 align="center">Ich bin der Übermensch</h1>
 
----
+###
 
-## 🧠 Sobre mim
+<h3 align="center">"DevOps isn't a goal, it's a way of life."</h3>
 
-- 🔭 Atualmente focado em backend, automação e desenvolvimento web.
-- 🧰 Tecnologias:
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
+<div align="center">
+  <img height="270" src="https://i.pinimg.com/736x/64/a7/1a/64a71a0f0b298127aa1366d77b2929f9.jpg" />
+</div>
 
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caducrs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducrs&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caducrs&layout=compact&theme=github_dark&hide_border=true&card_width=320&langs_count=6&custom_title=code+|+cloud+|+control" />
+</div>
 
----
+###
 
-  
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Let%20the%20code%20speak-000000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
