@@ -57,7 +57,4 @@
 <br clear="both">
 
 
-###  
-<div align="center">  
-<img src="https://raw.githubusercontent.com/caducrs/caducrs/output/snake.svg" alt="Snake animation" />
-</div>  
+
