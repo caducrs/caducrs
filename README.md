@@ -59,5 +59,5 @@
 
 ###  
 <div align="center">  
-  <img src="https://img.shields.io/badge/Let%20the%20code%20speak-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://raw.githubusercontent.com/caducrs/caducrs/output/snake.svg" alt="Snake animation" />
 </div>  
