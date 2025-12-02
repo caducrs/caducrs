@@ -1,7 +1,3 @@
-###  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caducrs&layout=compact&theme=github_dark&hide_border=true&card_width=320&langs_count=6&custom_title=code+|+cloud+|+control" />
-</div>  
 
 ###  
 <br clear="both">  
