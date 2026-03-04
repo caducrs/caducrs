@@ -1,13 +1,13 @@
 <h1 align="center">Developer • Cloud & DevOps Enthusiast</h1>
 
 <p align="center">
-Analista Desenvolvedor @Agenda Assessoria · 1+ Years of Experience 
+Developer Analyst @Agenda Assessoria · 1+ Years of Experience 
 </p>
 
 <p align="center">
 Currently studying ADS (3rd semester) at Fatec!  
-Learning, building & exploring cloud systems. 💻  
-Also a music creator 🎵 – check out my tracks on Spotify! @llust
+Learning, building & exploring cloud systems.
+Also a music creator – check out my tracks on Spotify! @llust
 </p>
 
 <br>
