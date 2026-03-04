@@ -5,8 +5,12 @@ Developer Analyst @Agenda Assessoria · 1+ Years of Experience
 </p>
 
 <p align="center">
-Currently studying ADS (3rd semester) at Fatec!  
+Currently studying ADS (3rd semester) at Fatec! 
+</p>
+<p align="center">
 Learning, building & exploring cloud systems.
+</p>
+<p align="center">
 Also a music creator – check out my tracks on Spotify! @llust
 </p>
 
